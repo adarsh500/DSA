@@ -1,4 +1,5 @@
-//https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/?track=DSASP-BitMagic&batchId=154#
+//https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/?track=DSASP-BitMagic&batchId=154#\
+//GFG MED
 
 
 class Solution{
